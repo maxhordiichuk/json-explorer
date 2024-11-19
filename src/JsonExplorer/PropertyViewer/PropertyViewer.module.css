@@ -1,0 +1,12 @@
+.propertyInput {
+  width: 100%;
+  max-width: 500px;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  margin-top: 0.5rem;
+}
+
+.propertyValue {
+  margin-top: 0.5rem;
+}
